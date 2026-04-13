@@ -1,6 +1,8 @@
 # Análise de mercado par novo comércio.
 
-Nesse projeto realizei a análise de estabelecimento do ramo de comida na cidade de LA para entender qual seria a área mais interessante para se abrir um novo comércio e também qual o ramo do restaurante.
+Análise geoespacial e competitiva de comércios locais para fundamentar a abertura de um novo restaurante, avaliando a saturação de nichos e a distribuição geográfica dos estabelecimentos.
+
+No final defini qual o melhor estilo de restaurante e a rua ideal para colocar.
 
 ## 🚀 Tecnologias
 - Python
