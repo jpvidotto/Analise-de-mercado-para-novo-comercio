@@ -28,4 +28,14 @@ Este projeto é uma análise de mercado desenvolvida para identificar a melhor o
 ## 🏆 Resultados e Conclusões
 * **Tipo de Negócio Recomendado:** A análise demonstrou que a abertura de uma **pizzaria** representa a melhor oportunidade, por ser um modelo de negócio com menor saturação geral, independentemente de ser uma rede ou não.
 * **Porte do Estabelecimento:** O tamanho ideal sugerido para o novo negócio é de aproximadamente **40 a 45 assentos**.
-* **Localização Estratégica:** A rua recomendada para a instalação foi a **Santa Monica BLVD**. Esta via apresenta um bom volume de comércios, o que sugere
+* **Localização Estratégica:** A rua recomendada para a instalação foi a **Santa Monica BLVD**. Esta via apresenta um bom volume de comércios, o que sugere excelente movimentação de público, mas não é a rua com a maior concentração do mercado, o que se traduz em menor concorrência direta para uma nova pizzaria.
+* **Apresentação Executiva:** Os resultados consolidados foram transformados numa [apresentação executiva para investidores](https://drive.google.com/file/d/1RX_3RnwQSNtTFh0Aminm-Hx1J8Lmf-3n/view?usp=sharing).
+
+---
+
+### 📂 Estrutura do Repositório
+* `projeto10.ipynb`: Notebook Jupyter contendo todas as etapas de limpeza de dados, análise exploratória e conclusões.
+* `dataframes/`: Pasta contendo a base de dados bruta `rest_data_us_upd.csv`.
+
+---
+**João Pedro Vidotto Tavares Dias** *Data Analyst | Análise de Mercado | Especialista em Vendas* [LinkedIn](https://www.linkedin.com/in/joao-vidotto/) | [GitHub](https://github.com/jpvidotto)
